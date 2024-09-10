@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhona\\source\\repos\\BotNotion2Sqlite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8D5542-7CD9-4A54-94C8-B39AECB5C131}|BotNotion2Sqlite\\BotNotion2Sqlite.csproj|c:\\users\\jhona\\source\\repos\\botnotion2sqlite\\botnotion2sqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8D5542-7CD9-4A54-94C8-B39AECB5C131}|BotNotion2Sqlite\\BotNotion2Sqlite.csproj|solutionrelative:botnotion2sqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC7B186-1E45-480A-824D-49711DC26A3E}|..\\SQLiteHelper\\SQLiteHelper\\SQLiteHelper.csproj|c:\\users\\jhona\\source\\repos\\sqlitehelper\\sqlitehelper\\sqlitedatabasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC7B186-1E45-480A-824D-49711DC26A3E}|..\\SQLiteHelper\\SQLiteHelper\\SQLiteHelper.csproj|c:\\users\\jhona\\source\\repos\\sqlitehelper\\sqlitehelper\\controllernotionsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC7B186-1E45-480A-824D-49711DC26A3E}|..\\SQLiteHelper\\SQLiteHelper\\SQLiteHelper.csproj|c:\\users\\jhona\\source\\repos\\sqlitehelper\\sqlitehelper\\lst_enti_notionsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lst_Enti_NotionSync.cs",
+              "DocumentMoniker": "C:\\Users\\jhona\\source\\repos\\SQLiteHelper\\SQLiteHelper\\Lst_Enti_NotionSync.cs",
+              "RelativeDocumentMoniker": "..\\SQLiteHelper\\SQLiteHelper\\Lst_Enti_NotionSync.cs",
+              "ToolTip": "C:\\Users\\jhona\\source\\repos\\SQLiteHelper\\SQLiteHelper\\Lst_Enti_NotionSync.cs",
+              "RelativeToolTip": "..\\SQLiteHelper\\SQLiteHelper\\Lst_Enti_NotionSync.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:14:22.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControllerNotionSync.cs",
+              "DocumentMoniker": "C:\\Users\\jhona\\source\\repos\\SQLiteHelper\\SQLiteHelper\\ControllerNotionSync.cs",
+              "RelativeDocumentMoniker": "..\\SQLiteHelper\\SQLiteHelper\\ControllerNotionSync.cs",
+              "ToolTip": "C:\\Users\\jhona\\source\\repos\\SQLiteHelper\\SQLiteHelper\\ControllerNotionSync.cs",
+              "RelativeToolTip": "..\\SQLiteHelper\\SQLiteHelper\\ControllerNotionSync.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:29:49.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhona\\source\\repos\\BotNotion2Sqlite\\BotNotion2Sqlite\\Program.cs",
+              "RelativeDocumentMoniker": "BotNotion2Sqlite\\Program.cs",
+              "ToolTip": "C:\\Users\\jhona\\source\\repos\\BotNotion2Sqlite\\BotNotion2Sqlite\\Program.cs",
+              "RelativeToolTip": "BotNotion2Sqlite\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAMwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:30:54.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLiteDatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\jhona\\source\\repos\\SQLiteHelper\\SQLiteHelper\\SQLiteDatabaseManager.cs",
+              "RelativeDocumentMoniker": "..\\SQLiteHelper\\SQLiteHelper\\SQLiteDatabaseManager.cs",
+              "ToolTip": "C:\\Users\\jhona\\source\\repos\\SQLiteHelper\\SQLiteHelper\\SQLiteDatabaseManager.cs",
+              "RelativeToolTip": "..\\SQLiteHelper\\SQLiteHelper\\SQLiteDatabaseManager.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwD0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:28:35.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
